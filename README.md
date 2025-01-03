@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/stars/maverickOG/Mindful-About-Money?style=social" alt="Stars"/>
   </p>
 
-  <img src="./Client/src/assets/readme-img.jpeg" width="600" alt="Mindful About Money Banner">
+  <img src="./Client/public/assets/readme-img.webp" width="600" alt="Mindful About Money Banner">
   
   <p><em>Transform Your Financial Journey, One Mindful Step at a Time 🌟</em></p>
 </div>
